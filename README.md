@@ -23,10 +23,18 @@ An Augmented Reality Application that educates people on different first aid pra
   
 ## Result
 
-![whatsapp image 2017-09-21 at 1 35 41 pm](https://user-images.githubusercontent.com/13608668/30711401-965cb4ae-9ed6-11e7-93a0-8a5bcb807137.jpeg)
-![whatsapp image 2017-09-21 at 1 35 38 pm](https://user-images.githubusercontent.com/13608668/30711403-96cbca1a-9ed6-11e7-9c83-4d4452ec6d77.jpeg)
-![whatsapp image 2017-09-21 at 1 35 34 pm](https://user-images.githubusercontent.com/13608668/30711406-97ee280c-9ed6-11e7-8798-d91668927f17.jpeg)
-![whatsapp image 2017-09-21 at 1 35 36 pm](https://user-images.githubusercontent.com/13608668/30711407-98ab5f8a-9ed6-11e7-996d-6adb78beaa3d.jpeg)
-![whatsapp image 2017-09-21 at 1 35 32 pm](https://user-images.githubusercontent.com/13608668/30711410-9a276caa-9ed6-11e7-898b-4582e57241ce.jpeg)
+### CPR 
 
+![cpr2](https://user-images.githubusercontent.com/13608668/30711871-193f4d40-9ed8-11e7-945e-34ea79a5c5c1.jpeg)
+![cpr3](https://user-images.githubusercontent.com/13608668/30711872-194052c6-9ed8-11e7-9777-3f40f4ff879f.jpeg)
+
+### HEIMLICH MANEUVER
+
+![heimlich1](https://user-images.githubusercontent.com/13608668/30711875-196fdeba-9ed8-11e7-8f38-d54fce6aa486.jpeg)
+![heimlich2](https://user-images.githubusercontent.com/13608668/30711874-195726c2-9ed8-11e7-910a-fc017aa18e50.jpeg)
+![heimlich3](https://user-images.githubusercontent.com/13608668/30711876-19964d98-9ed8-11e7-80d3-6daf822fd8f6.jpeg)
+
+
+
+>This project is still in development.
 
